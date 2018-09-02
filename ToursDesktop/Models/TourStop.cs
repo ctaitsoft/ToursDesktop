@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ToursDesktop.Models {
 	public class TourStop {
+        // this is a comment
 		public int StopNumber { get; set; }
 		public string Name { get; set; }
 		public string Latitude { get; set; }
